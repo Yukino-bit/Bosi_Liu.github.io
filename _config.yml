@@ -29,12 +29,12 @@ author:
   bio              : "Computer Science"
   location         : "Houston, Texas"
   employer         : "University of Houston"
-  uri              : "https://yukino-bit.github.io/Bosi_Liu.github.io/"
+  uri              : "https://www.uh.edu/nsm/computer-science/"
   email            : "ricardoliu1013@mail.com" 
   
 
   # Academic websites
-  school           : "https://www.uh.edu/nsm/computer-science/"
+  school           : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # URL
   inspire-hep      : # URL
