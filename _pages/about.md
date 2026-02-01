@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 <img src= "{{ site.baseurl }}/images/animegirl.png"
-      alt = "anime Girl"
-      width = "400"
-      style = "float: right; margin: 0 0 lem lem;" />
 
 
 I am a Junior Student in University of Houston.
