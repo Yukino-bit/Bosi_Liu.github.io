@@ -7,11 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-
-<!-- <img src="/Bosi_Liu.github.io/images/animegirl.png"> -->
-
-![Anime Girl]({{ site.baseurl }}/images/animegirl.png)
-
+<img src="{{ site.baseurl }}/images/animegirl.png" 
+     alt="Anime Girl" 
+     width="150" 
+     style="float: right; margin-left: 20px; margin-bottom: 10px;">
 
 I am a Junior Student in University of Houston.
 
