@@ -1,0 +1,19 @@
+---
+permalink: /
+title: "Hello everyone, I'm Bosi Liu!"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+![animegirl.png](/images/animegirl.png){:. align-right width = "400px"}
+
+I am a Junior Student in University of Houston.
+
+And my major is Computer Science, studying Data Science. 
+
+I love reading books and watching Anime. 
+
+
+
