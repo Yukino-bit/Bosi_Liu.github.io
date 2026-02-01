@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 
-<img src="/Bosi_Liu.github.io/images/animegirl.png">
+<!-- <img src="/Bosi_Liu.github.io/images/animegirl.png"> -->
+
+![Anime Girl]({{ site.baseurl }}/images/animegirl.png)
 
 
 I am a Junior Student in University of Houston.
