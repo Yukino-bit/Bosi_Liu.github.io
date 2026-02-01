@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![animegirl.png](/images/animegirl.png){:. align-right width = "400px"}
+![animegirl.png](/images/animegirl.png)
 
 I am a Junior Student in University of Houston.
 
