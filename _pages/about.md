@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-<img src= "{{ site.baseurl }}/images/animegirl.png"
+![Anime Girl]({{ site.baseurl }}/images/animegirl.png)
+
 
 
 I am a Junior Student in University of Houston.
